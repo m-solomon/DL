@@ -1,0 +1,4 @@
+Errors:
+1- the method 'initialize' in FullyConnected class.
+2- the method 'append_trainable_layer' in NeuralNetwork class.
+3. missing epsilon in Adam optimizer

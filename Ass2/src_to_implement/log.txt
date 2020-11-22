@@ -1,0 +1,356 @@
+Run 2020-06-30 19:08:09.542284
+Run 2020-06-30 19:15:44.686611
+Run 2020-06-30 19:18:40.284894
+Run 2020-06-30 19:21:42.239811
+Run 2020-06-30 19:23:08.620613
+Run 2020-06-30 19:23:28.437047
+Run 2020-06-30 19:27:16.636095
+Run 2020-06-30 19:28:48.658145
+Run 2020-06-30 19:30:43.897318
+Run 2020-06-30 19:35:14.965853
+Run 2020-06-30 19:41:03.251455
+Run 2020-06-30 19:43:30.191242
+Run 2020-06-30 19:45:05.370844
+Run 2020-06-30 20:17:24.341185
+Run 2020-06-30 20:23:59.739095
+Run 2020-06-30 20:27:51.195656
+Run 2020-06-30 20:29:36.849915
+Run 2020-06-30 20:35:11.678301
+On the Iris dataset, we achieve an accuracy of: 92.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-06-30 20:43:43.690150
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-06-30 20:46:27.053248
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+Run 2020-06-30 20:48:47.726264
+On the Iris dataset, we achieve an accuracy of: 92.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-06-30 20:49:48.274977
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 92.0%
+Run 2020-06-30 20:50:41.575480
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-06-30 22:53:43.765325
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+Run 2020-06-30 22:56:01.660778
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-06-30 23:00:30.368532
+On the Iris dataset, we achieve an accuracy of: 94.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-06-30 23:01:58.045006
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-06-30 23:03:20.004994
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-06-30 23:04:16.484492
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 92.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+Run 2020-06-30 23:05:24.976385
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+Run 2020-06-30 23:05:42.458102
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 92.0%
+Run 2020-06-30 23:13:51.139151
+On the Iris dataset, we achieve an accuracy of: 90.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-06-30 23:15:35.732863
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-06-30 23:17:31.460063
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 90.0%
+Run 2020-06-30 23:19:40.440741
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-06-30 23:20:17.254588
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+Run 2020-06-30 23:21:22.621522
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-06-30 23:23:47.860816
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+Run 2020-06-30 23:25:33.787061
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+Run 2020-06-30 23:26:05.223223
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-06-30 23:27:24.319434
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-06-30 23:28:39.064382
+On the Iris dataset, we achieve an accuracy of: 92.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 90.0%
+Run 2020-06-30 23:29:37.167081
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-06-30 23:31:06.699913
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+Run 2020-06-30 23:32:07.619005
+On the Iris dataset, we achieve an accuracy of: 88.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+Run 2020-06-30 23:33:38.347609
+On the Iris dataset, we achieve an accuracy of: 94.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-06-30 23:34:15.572136
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+Run 2020-06-30 23:34:36.012586
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-06-30 23:35:05.034547
+On the Iris dataset, we achieve an accuracy of: 94.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+Run 2020-06-30 23:35:31.562334
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+Run 2020-06-30 23:37:09.217942
+On the Iris dataset, we achieve an accuracy of: 94.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+Run 2020-06-30 23:39:14.322361
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 92.0%
+On the Iris dataset, we achieve an accuracy of: 90.0%
+Run 2020-06-30 23:40:28.198316
+Run 2020-06-30 23:41:50.135827
+Run 2020-06-30 23:43:46.865128
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-06-30 23:47:25.990647
+Run 2020-06-30 23:51:54.728096
+On the Iris dataset, we achieve an accuracy of: 94.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-06-30 23:52:59.047031
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-06-30 23:56:48.003149
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-06-30 23:58:27.638190
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-06-30 23:59:26.173359
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+Run 2020-07-01 00:00:35.476068
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-07-01 00:00:58.840087
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-07-01 00:07:24.241108
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 96.32721202003339%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+Run 2020-07-01 00:14:39.789371
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 90.0%
+Run 2020-07-01 00:16:44.491581
+On the Iris dataset, we achieve an accuracy of: 92.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-07-01 00:17:38.613766
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 96.16026711185309%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-07-01 00:26:51.862685
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 96.661101836394%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+Run 2020-07-01 00:30:53.459734
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-07-01 00:33:35.426680
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-07-01 00:36:00.682074
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+Run 2020-07-01 01:05:45.264253
+On the Iris dataset, we achieve an accuracy of: 88.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-07-01 01:07:21.494392
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-07-01 01:08:10.021921
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 94.82470784641069%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-07-01 01:11:51.235645
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 95.65943238731218%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+Run 2020-07-01 13:08:04.751813
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 93.65609348914859%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-07-01 13:45:07.453470
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 96.4941569282137%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-07-01 13:54:01.504882
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 95.49248747913188%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+Run 2020-07-01 13:57:53.976256
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 96.32721202003339%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-07-01 14:02:51.606765
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 96.8280467445743%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-07-01 14:08:40.990124
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 92.0%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+Run 2020-07-01 14:12:51.089830
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 94.65776293823038%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-07-01 14:22:15.292797
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 96.4941569282137%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-07-01 14:25:30.987584
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-07-01 14:33:04.177657
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 90.0%
+Run 2020-07-01 14:34:01.469246
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 95.32554257095158%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+Run 2020-07-01 15:01:27.993178
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 96.8280467445743%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-07-01 15:10:42.439753
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-07-01 15:12:22.813070
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-07-01 15:16:25.029809
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 95.49248747913188%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+Run 2020-07-01 15:30:15.855893
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 95.65943238731218%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-07-01 15:45:06.087507
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 96.32721202003339%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 92.0%
+Run 2020-07-01 15:50:12.683029
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 95.65943238731218%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+Run 2020-07-01 15:52:55.220906
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 96.99499165275459%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+Run 2020-07-01 16:08:56.080044
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 94.99165275459099%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+Run 2020-07-01 16:17:55.934030
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 95.15859766277129%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-07-01 16:31:01.630447
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 95.32554257095158%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 100.0%
+Run 2020-07-01 17:34:20.740200
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 95.99332220367279%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+On the Iris dataset, we achieve an accuracy of: 94.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+Run 2020-07-01 17:41:03.755794
+On the UCI ML hand-written digits dataset, we achieve an accuracy of: 94.99165275459099%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 96.0%
+On the Iris dataset, we achieve an accuracy of: 98.0%

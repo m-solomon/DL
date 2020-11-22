@@ -1,0 +1,298 @@
+att1 param:
+ep = 20
+BZ = 64
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+
+-------------
+2222
+ep = 20
+BZ = 64
+TZ = 0.4
+LR = 0.001
+opt = 'A'
+
+------------------
+3333
+ep = 20
+BZ = 64
+TZ = 0.4
+LR = 0.0001
+opt = 'A'
+
+--------------
+4444
+ep = 30
+BZ = 64
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+
+--------------
+5555
+ep = 20
+BZ = 64
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+
+-------
+6666
+ep = 20
+BZ = 64
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+------------
+7777
+ep = 20
+BZ = 64
+TZ = 0.4
+LR = 0.0005
+opt = 'sgd'
+
+--------------------
+88888
+
+ep = 20
+BZ = 64
+TZ = 0.4
+LR = 0.01
+opt = 'sgd'
+
+--------------
+999999
+
+ep = 20
+BZ = 64
+TZ = 0.4
+LR = 0.001
+opt = 'sgd'
+
+---------------
+101010101  CP deleted
+ep = 20
+BZ = 100
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+
+----------------
+11111111111111  CP not deleted
+
+
+ep = 20
+BZ = 100
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+
+------------------------
+121212121212121212121 CP deleted
+
+ep = 20
+BZ = 100
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+
+------------------------
+1313131313131313 CP not deleted
+
+ep = 20
+BZ = 100
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+--------------------------------
+1414141414141414 CP not deleted
+
+ep = 20
+BZ = 34
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+----------------------------------
+15151515515151515515 CP not deleted
+
+ep = 20
+BZ = 128
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+
+----------------------------------
+161616161616161616161616 CP not deleted
+
+ep = 20
+BZ = 128
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+-----------------------------------
+1717171717171717171717 change in the trainer:
+calculat loss without rounding x
+
+ep = 20
+BZ = 100
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+
+-----------------------------------------------
+
+181818181818181818181818 change in the trainer and model:
+sig in model instead of trainer &&& rounding in both steps
+
+ep = 20
+BZ = 100
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+
+
+----------------------------------
+19191919191919191919191919 change in the trainer and model:
+sig in trainer instead of model &&& rounding in both steps
+
+ep = 20
+BZ = 100
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+
+
+----------------------------------
+20202020202020202020 change in the trainer:
+sig in trainer instead of model &&& rounding in one step only (like in the begening)
+
+ep = 20
+BZ = 100
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+------------------------------
+21212121212121212121
+
+ep = 20
+BZ = 100
+TZ = 0.5
+LR = 0.0005
+opt = 'A'
+
+---------------------------------
+222222222222222: removed self.classes in data.py
+
+ep = 10
+BZ = 100
+TZ = 0.5
+LR = 0.0005
+opt = 'A'
+
+---------------------------------
+2323232323232323: changed loss function and apply sig in model.py not in trainer.py and rounding in both steps
+
+ep = 20
+BZ = 100
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+--------------------------------
+2424242424242424: changed loss function and apply sig in trainer.py not in model.py and rounding only in val_step
+
+ep = 20
+BZ = 100
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+-----------------------------------------
+2525252525252525: changed loss function back and apply no sig in either trainer.py or model.py and rounding only in val_step
+
+ep = 20
+BZ = 100
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+-------------------------------------------------
+262626262626262626262626: changed loss function back and apply no sig in either trainer.py or model.py and rounding in both steps
+
+ep = 10
+BZ = 64
+TZ = 0.3
+LR = 0.0005
+opt = 'A'
+------------------------------------------------------
+27272727272727272727272727: changed loss function back and apply no sig in either trainer.py or model.py and rounding only in val_step
+
+ep = 20
+BZ = 100
+TZ = 0.4
+LR = 0.005
+opt = 'sgd'
+
+-------------------------------------
+2828282828282828282828282828: changed loss function back and apply no sig in either trainer.py or model.py and rounding only in val_step
+
+ep = 30
+BZ = 100
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+
+------------------------------------------------------
+29292929292929292929: same as 27
+
+ep = 20
+BZ = 100
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+--------------------------------------------------
+30303030303030303030: sig in model not in loss function
+
+ep = 20
+BZ = 100
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+--------------------------------------------------
+31313131313131313131313131: same as 30: sig in model not in loss function
+
+ep = 20
+BZ = 64
+TZ = 0.33
+LR = 0.0005
+opt = 'A'
+
+-----------------------------------------------
+32 last test:
+
+ep = 20
+BZ = 100
+TZ = 0.4
+LR = 0.0005
+opt = 'A'
+
+
